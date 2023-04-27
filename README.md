@@ -1,0 +1,2 @@
+# DioDocsExcelAddShapeToRange
+指定したセル範囲に図形や画像、チャートを追加する
